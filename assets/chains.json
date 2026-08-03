@@ -124,7 +124,7 @@
       "coinGeckoId": "ethereum",
       "decimals": 18,
       "color": "#1755F4",
-      "logoUri": "https://assets.coingecko.com/asset_platforms/images/121/small/zksync.jpeg?1706606814",
+      "logoUri": "https://raw.githubusercontent.com/pixelgenius-id/NodeSparkAssets/main/chains/zksync.png",
       "tokenListFile": null
     },
     {
@@ -141,7 +141,7 @@
       "coinGeckoId": "ethereum",
       "decimals": 18,
       "color": "#61DFFF",
-      "logoUri": "https://coin-images.coingecko.com/asset_platforms/images/135/small/linea.jpeg?1706606705",
+      "logoUri": "https://raw.githubusercontent.com/pixelgenius-id/NodeSparkAssets/main/chains/linea.png",
       "tokenListFile": null
     },
     {
@@ -158,7 +158,7 @@
       "coinGeckoId": "ethereum",
       "decimals": 18,
       "color": "#EEB311",
-      "logoUri": "https://coin-images.coingecko.com/asset_platforms/images/153/small/scroll.jpeg?1706606782",
+      "logoUri": "https://raw.githubusercontent.com/pixelgenius-id/NodeSparkAssets/main/chains/scroll.png",
       "tokenListFile": null
     },
     {
@@ -175,7 +175,7 @@
       "coinGeckoId": "mantle",
       "decimals": 18,
       "color": "#00C2A8",
-      "logoUri": "https://coin-images.coingecko.com/asset_platforms/images/140/small/mantle.jpeg?1706606701",
+      "logoUri": "https://raw.githubusercontent.com/pixelgenius-id/NodeSparkAssets/main/chains/mantle.png",
       "tokenListFile": null
     },
     {
@@ -192,7 +192,7 @@
       "coinGeckoId": "ethereum",
       "decimals": 18,
       "color": "#FCFC03",
-      "logoUri": "https://coin-images.coingecko.com/asset_platforms/images/192/small/blast.jpeg?1709085131",
+      "logoUri": "https://raw.githubusercontent.com/pixelgenius-id/NodeSparkAssets/main/chains/blast.png",
       "tokenListFile": null
     },
     {
@@ -207,7 +207,7 @@
       "coinGeckoId": "ethereum",
       "decimals": 18,
       "color": "#00C805",
-      "logoUri": "https://assets.coingecko.com/asset_platforms/images/102132299/small/robinhood.png?1782921203",
+      "logoUri": "https://raw.githubusercontent.com/pixelgenius-id/NodeSparkAssets/main/chains/robinhood.png",
       "tokenListFile": null
     },
     {
