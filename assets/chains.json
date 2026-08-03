@@ -124,7 +124,7 @@
       "coinGeckoId": "ethereum",
       "decimals": 18,
       "color": "#1755F4",
-      "logoUri": "https://assets.coingecko.com/coins/images/38042/small/zksync-square.jpg",
+      "logoUri": "https://assets.coingecko.com/asset_platforms/images/121/small/zksync.jpeg?1706606814",
       "tokenListFile": null
     },
     {
@@ -141,7 +141,7 @@
       "coinGeckoId": "ethereum",
       "decimals": 18,
       "color": "#61DFFF",
-      "logoUri": "https://assets.coingecko.com/coins/images/37927/small/linea.png",
+      "logoUri": "https://coin-images.coingecko.com/asset_platforms/images/135/small/linea.jpeg?1706606705",
       "tokenListFile": null
     },
     {
@@ -158,7 +158,7 @@
       "coinGeckoId": "ethereum",
       "decimals": 18,
       "color": "#EEB311",
-      "logoUri": "https://assets.coingecko.com/coins/images/37696/small/scroll.png",
+      "logoUri": "https://coin-images.coingecko.com/asset_platforms/images/153/small/scroll.jpeg?1706606782",
       "tokenListFile": null
     },
     {
@@ -175,7 +175,7 @@
       "coinGeckoId": "mantle",
       "decimals": 18,
       "color": "#00C2A8",
-      "logoUri": "https://assets.coingecko.com/coins/images/30980/small/token-logo.png",
+      "logoUri": "https://coin-images.coingecko.com/asset_platforms/images/140/small/mantle.jpeg?1706606701",
       "tokenListFile": null
     },
     {
@@ -192,7 +192,7 @@
       "coinGeckoId": "ethereum",
       "decimals": 18,
       "color": "#FCFC03",
-      "logoUri": "https://assets.coingecko.com/coins/images/35494/small/blast.png",
+      "logoUri": "https://coin-images.coingecko.com/asset_platforms/images/192/small/blast.jpeg?1709085131",
       "tokenListFile": null
     },
     {
