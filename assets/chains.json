@@ -1,6 +1,10 @@
 {
   "name": "NodeSpark Wallet - Supported Chains",
-  "version": { "major": 1, "minor": 1, "patch": 0 },
+  "version": {
+    "major": 1,
+    "minor": 2,
+    "patch": 0
+  },
   "chains": [
     {
       "chainId": 1,
@@ -56,23 +60,6 @@
       "tokenListFile": "polygon.json"
     },
     {
-      "chainId": 42161,
-      "name": "Arbitrum One",
-      "symbol": "ETH",
-      "rpcUrl": "https://arbitrum-one-rpc.publicnode.com",
-      "rpcUrls": [
-        "https://rpc.ankr.com/arbitrum",
-        "https://arb1.arbitrum.io/rpc",
-        "https://arbitrum.llamarpc.com"
-      ],
-      "explorerUrl": "https://arbiscan.io",
-      "coinGeckoId": "ethereum",
-      "decimals": 18,
-      "color": "#28A0F0",
-      "logoUri": "https://assets.coingecko.com/coins/images/16547/small/photo_2023-03-29_21.47.00.jpeg",
-      "tokenListFile": "arbitrum.json"
-    },
-    {
       "chainId": 10,
       "name": "Optimism",
       "symbol": "ETH",
@@ -103,8 +90,125 @@
       "coinGeckoId": "ethereum",
       "decimals": 18,
       "color": "#0052FF",
-      "logoUri": "https://assets.coingecko.com/coins/images/34092/small/Base_Symbol_Blue.png",
+      "logoUri": "https://assets.coingecko.com/coins/images/69370/standard/base.png?1758327086",
       "tokenListFile": "base.json"
+    },
+    {
+      "chainId": 42161,
+      "name": "Arbitrum One",
+      "symbol": "ETH",
+      "rpcUrl": "https://arbitrum-one-rpc.publicnode.com",
+      "rpcUrls": [
+        "https://rpc.ankr.com/arbitrum",
+        "https://arb1.arbitrum.io/rpc",
+        "https://arbitrum.llamarpc.com"
+      ],
+      "explorerUrl": "https://arbiscan.io",
+      "coinGeckoId": "ethereum",
+      "decimals": 18,
+      "color": "#28A0F0",
+      "logoUri": "https://assets.coingecko.com/coins/images/16547/small/photo_2023-03-29_21.47.00.jpeg",
+      "tokenListFile": "arbitrum.json"
+    },
+    {
+      "chainId": 324,
+      "name": "zkSync Era",
+      "symbol": "ETH",
+      "rpcUrl": "https://mainnet.era.zksync.io",
+      "rpcUrls": [
+        "https://zksync.drpc.org",
+        "https://zksync-era.blockpi.network/v1/rpc/public",
+        "https://rpc.ankr.com/zksync_era"
+      ],
+      "explorerUrl": "https://explorer.zksync.io",
+      "coinGeckoId": "ethereum",
+      "decimals": 18,
+      "color": "#1755F4",
+      "logoUri": "https://assets.coingecko.com/coins/images/38042/small/zksync-square.jpg",
+      "tokenListFile": null
+    },
+    {
+      "chainId": 59144,
+      "name": "Linea",
+      "symbol": "ETH",
+      "rpcUrl": "https://rpc.linea.build",
+      "rpcUrls": [
+        "https://linea-rpc.publicnode.com",
+        "https://rpc.ankr.com/linea",
+        "https://linea.drpc.org"
+      ],
+      "explorerUrl": "https://lineascan.build",
+      "coinGeckoId": "ethereum",
+      "decimals": 18,
+      "color": "#61DFFF",
+      "logoUri": "https://assets.coingecko.com/coins/images/37927/small/linea.png",
+      "tokenListFile": null
+    },
+    {
+      "chainId": 534352,
+      "name": "Scroll",
+      "symbol": "ETH",
+      "rpcUrl": "https://rpc.scroll.io",
+      "rpcUrls": [
+        "https://rpc.ankr.com/scroll",
+        "https://scroll-rpc.publicnode.com",
+        "https://scroll.drpc.org"
+      ],
+      "explorerUrl": "https://scrollscan.com",
+      "coinGeckoId": "ethereum",
+      "decimals": 18,
+      "color": "#EEB311",
+      "logoUri": "https://assets.coingecko.com/coins/images/37696/small/scroll.png",
+      "tokenListFile": null
+    },
+    {
+      "chainId": 5000,
+      "name": "Mantle",
+      "symbol": "MNT",
+      "rpcUrl": "https://rpc.mantle.xyz",
+      "rpcUrls": [
+        "https://mantle-rpc.publicnode.com",
+        "https://rpc.ankr.com/mantle",
+        "https://mantle.drpc.org"
+      ],
+      "explorerUrl": "https://mantlescan.xyz",
+      "coinGeckoId": "mantle",
+      "decimals": 18,
+      "color": "#00C2A8",
+      "logoUri": "https://assets.coingecko.com/coins/images/30980/small/token-logo.png",
+      "tokenListFile": null
+    },
+    {
+      "chainId": 81457,
+      "name": "Blast",
+      "symbol": "ETH",
+      "rpcUrl": "https://rpc.blast.io",
+      "rpcUrls": [
+        "https://rpc.ankr.com/blast",
+        "https://blastl2-mainnet.public.blastapi.io",
+        "https://blast.drpc.org"
+      ],
+      "explorerUrl": "https://blastscan.io",
+      "coinGeckoId": "ethereum",
+      "decimals": 18,
+      "color": "#FCFC03",
+      "logoUri": "https://assets.coingecko.com/coins/images/35494/small/blast.png",
+      "tokenListFile": null
+    },
+    {
+      "chainId": 4663,
+      "name": "Robinhood Chain",
+      "symbol": "ETH",
+      "rpcUrl": "https://rpc.mainnet.chain.robinhood.com",
+      "rpcUrls": [
+        "https://rpc.mainnet.chain.robinhood.com"
+      ],
+      "explorerUrl": "https://robinhoodchain.blockscout.com",
+      "coinGeckoId": "ethereum",
+      "decimals": 18,
+      "color": "#00C805",
+      "logoUri": "https://assets.coingecko.com/asset_platforms/images/102132299/small/robinhood.png?1782921203",
+      "tokenListFile": null
     },
     {
       "chainId": 6736,
