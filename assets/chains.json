@@ -22,7 +22,8 @@
       "decimals": 18,
       "color": "#627EEA",
       "logoUri": "https://raw.githubusercontent.com/pixelgenius-id/NodeSparkAssets/main/chains/ethereum.png",
-      "tokenListFile": "ethereum.json"
+      "tokenListFile": "ethereum.json",
+      "explorerApiUrl": "https://api.etherscan.io/api"
     },
     {
       "chainId": 56,
@@ -40,7 +41,8 @@
       "decimals": 18,
       "color": "#F3BA2F",
       "logoUri": "https://raw.githubusercontent.com/pixelgenius-id/NodeSparkAssets/main/chains/bnb.png",
-      "tokenListFile": "smartchain.json"
+      "tokenListFile": "smartchain.json",
+      "explorerApiUrl": "https://api.bscscan.com/api"
     },
     {
       "chainId": 137,
@@ -57,7 +59,8 @@
       "decimals": 18,
       "color": "#8247E5",
       "logoUri": "https://raw.githubusercontent.com/pixelgenius-id/NodeSparkAssets/main/chains/polygon.png",
-      "tokenListFile": "polygon.json"
+      "tokenListFile": "polygon.json",
+      "explorerApiUrl": "https://api.polygonscan.com/api"
     },
     {
       "chainId": 10,
@@ -74,7 +77,8 @@
       "decimals": 18,
       "color": "#FF0420",
       "logoUri": "https://raw.githubusercontent.com/pixelgenius-id/NodeSparkAssets/main/chains/optimism.png",
-      "tokenListFile": "optimism.json"
+      "tokenListFile": "optimism.json",
+      "explorerApiUrl": "https://api-optimistic.etherscan.io/api"
     },
     {
       "chainId": 8453,
@@ -91,7 +95,8 @@
       "decimals": 18,
       "color": "#0052FF",
       "logoUri": "https://raw.githubusercontent.com/pixelgenius-id/NodeSparkAssets/main/chains/base.png",
-      "tokenListFile": "base.json"
+      "tokenListFile": "base.json",
+      "explorerApiUrl": "https://api.basescan.org/api"
     },
     {
       "chainId": 42161,
@@ -108,7 +113,8 @@
       "decimals": 18,
       "color": "#28A0F0",
       "logoUri": "https://raw.githubusercontent.com/pixelgenius-id/NodeSparkAssets/main/chains/arbitrum.png",
-      "tokenListFile": "arbitrum.json"
+      "tokenListFile": "arbitrum.json",
+      "explorerApiUrl": "https://api.arbiscan.io/api"
     },
     {
       "chainId": 324,
@@ -125,7 +131,8 @@
       "decimals": 18,
       "color": "#1755F4",
       "logoUri": "https://raw.githubusercontent.com/pixelgenius-id/NodeSparkAssets/main/chains/zksync.png",
-      "tokenListFile": null
+      "tokenListFile": null,
+      "explorerApiUrl": "https://block-explorer-api.mainnet.zksync.io/api"
     },
     {
       "chainId": 59144,
@@ -142,7 +149,8 @@
       "decimals": 18,
       "color": "#61DFFF",
       "logoUri": "https://raw.githubusercontent.com/pixelgenius-id/NodeSparkAssets/main/chains/linea.png",
-      "tokenListFile": null
+      "tokenListFile": null,
+      "explorerApiUrl": "https://api.lineascan.build/api"
     },
     {
       "chainId": 534352,
@@ -159,7 +167,8 @@
       "decimals": 18,
       "color": "#EEB311",
       "logoUri": "https://raw.githubusercontent.com/pixelgenius-id/NodeSparkAssets/main/chains/scroll.png",
-      "tokenListFile": null
+      "tokenListFile": null,
+      "explorerApiUrl": "https://api.scrollscan.com/api"
     },
     {
       "chainId": 5000,
@@ -176,7 +185,8 @@
       "decimals": 18,
       "color": "#00C2A8",
       "logoUri": "https://raw.githubusercontent.com/pixelgenius-id/NodeSparkAssets/main/chains/mantle.png",
-      "tokenListFile": null
+      "tokenListFile": null,
+      "explorerApiUrl": "https://api.mantlescan.xyz/api"
     },
     {
       "chainId": 81457,
@@ -193,7 +203,8 @@
       "decimals": 18,
       "color": "#FCFC03",
       "logoUri": "https://raw.githubusercontent.com/pixelgenius-id/NodeSparkAssets/main/chains/blast.png",
-      "tokenListFile": null
+      "tokenListFile": null,
+      "explorerApiUrl": "https://api.blastscan.io/api"
     },
     {
       "chainId": 4663,
@@ -208,7 +219,8 @@
       "decimals": 18,
       "color": "#00C805",
       "logoUri": "https://raw.githubusercontent.com/pixelgenius-id/NodeSparkAssets/main/chains/robinhood.png",
-      "tokenListFile": null
+      "tokenListFile": null,
+      "explorerApiUrl": "https://robinhoodchain.blockscout.com/api"
     },
     {
       "chainId": 6736,
@@ -223,7 +235,8 @@
       "decimals": 18,
       "color": "#FFFFFF",
       "logoUri": "https://raw.githubusercontent.com/pixelgenius-id/NodeSparkAssets/main/chains/vexanium.png",
-      "tokenListFile": "vexanium.json"
+      "tokenListFile": "vexanium.json",
+      "explorerApiUrl": ""
     }
   ]
 }
